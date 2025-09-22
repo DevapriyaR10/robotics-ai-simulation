@@ -1,5 +1,3 @@
-# robotics-ai-simulation
-
 # Robotics + UML + Generative AI Simulation
 
 This project simulates a robotics control system typically used in competitions.  
